@@ -1,0 +1,33 @@
+﻿#EXTM3U
+#EXTINF:-1,Русское Радио
+https://rusradio.hostingradio.ru/rusradio96.aacp?1b39
+#EXTINF:-1,Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=D2Cb2Mv2wkX-jD5pekauxw&e=1485261543
+#EXTINF:-1,Ретро ФМ
+http://retroserver.streamr.ru:8043/retro128
+#EXTINF:-1,Авторадио
+http://ic7.101.ru:8000/v3_1?86fbca38
+#EXTINF:-1,Европа Плюс
+http://ep128.hostingradio.ru:8030/ep128?9cdc3c54
+#EXTINF:-1,Хит ФМ
+https://hitfm.hostingradio.ru/hitfm128.mp3?81cc703e
+#EXTINF:-1,Юмор ФМ
+http://ic7.101.ru:8000/v5_1?8412
+#EXTINF:-1,Радио Energy
+http://ic3.101.ru:8000/a99?8937
+#EXTINF:-1,Дискотека 80-х
+http://ic2.101.ru/a1?b5e7bc4c
+#EXTINF:-1,Дискотека 90-х
+http://air.radiorecord.ru:805/sd90_320?0d16866c
+#EXTINF:-1,Милицейская Волна
+https://radiomv.hostingradio.ru:80/radiomv128.mp3?5f68
+#EXTINF:-1,Хорошее Радио
+http://radio.horoshee.fm:8000/mp3?43da6b85
+#EXTINF:-1,Радио 7
+http://retroserver.streamr.ru:8040/radio7128.mp3?aecd
+#EXTINF:-1,Радио Романтика
+http://ic7.101.ru:8000/a101?8cbb
+#EXTINF:-1,Дорожное Радио
+http://dorognoe.hostingradio.ru:8000/dorognoe?9042e82d
+#EXTINF:-1,Динамит ФМ
+https://dfm.hostingradio.ru/dfm96.aacp?0be97e12
